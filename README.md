@@ -24,3 +24,5 @@ https://github.com/Bry443/Java_email
 ## Get in Contact:
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 https://www.linkedin.com/in/brycen-taylor1/
+
+[![Your GitHub stats](https://vercel.app)](https://github.com/Bry443/github-readme-stats)
