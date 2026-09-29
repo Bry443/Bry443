@@ -17,6 +17,10 @@ Experience in: Python |  C# | SQL | CSS | HTML | JavaScript | Git
 
 Novice in Godot Game Engine
 
+## See Some of My Work:
+Sending an Email through Javascript:
+https://github.com/Bry443/Java_email
+
 ## Get in Contact:
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 https://www.linkedin.com/in/brycen-taylor1/
