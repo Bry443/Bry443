@@ -1,25 +1,11 @@
 # Brycen Taylor
 
 ## About Me:
-I am a third-year college student currently pursuing my bachelor’s degree in computer science at Brigham Young University–Idaho. I have maintained a 3.955 GPA. I have accomplished multiple individual and group programming projects in Python and C# learning how to apply classes, functions. data structures, and threading. In my spare time I enjoy gaming, running, and playing piano and guitar.
+I am a third-year college student currently pursuing my bachelor’s degree in computer science at Brigham Young University–Idaho. I have maintained a 3.955 GPA. I have accomplished multiple individual and group programming projects in Python and C# learning how to apply classes, functions. data structures, and threading. In my spare time I enjoy gaming, running, hiking, and playing piano and guitar.
 
 ## Skills:
-Experience in: Python | C# | SQL | JavaScript
-novice in Godot Game Engine
+Experience in: Python | C# | SQL | JavaScript  
+Novice in Godot Game Engine
 
 ## Get in Contact:
 LinkedIn: https://www.linkedin.com/in/brycen-taylor1/
-<!--
-**Bry443/bry443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
