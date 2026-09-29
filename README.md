@@ -25,4 +25,5 @@ https://github.com/Bry443/Java_email
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 https://www.linkedin.com/in/brycen-taylor1/
 
-[![Your GitHub stats](https://vercel.app)](https://github.com/Bry443/github-readme-stats)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Bry443)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Bry443&langs_count=4&theme=catppuccin_latte)](https://github-stats-extended.vercel.app/api/top-langs?username=Bry443&langs_count=4&theme=catppuccin_latte)
